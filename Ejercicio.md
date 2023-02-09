@@ -53,3 +53,6 @@ _No aparece nada debido a que no hemos vinculado el repositorio con el repositor
 
 **1.9 – Ves al repositorio remoto (en este caso GitHub) y comprueba que se haya realizado el commit correctamente y observa que pasa en el repositorio ¿Observas algo peculiar?**
 
+_Si se han subido todos los ficheros al realizar el pull_
+
+https://github.com/Ericpinasmuntane/REPO01.git
